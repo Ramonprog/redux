@@ -1,2 +1,8 @@
 Modo antigo
-1- dependencias => npm i redux react-redux
+1- dependencias => npm i react-redux @reduxjs/toolkit
+
+src/features/counter
+ create slice - ajuda a reduzir a quantidade de código necessária para definir um slice (ou fatia) do estado da aplicação e seus reducers correspondentes.
+
+ imultabilidade - dentro do create slice posso fazer uma atribuição direta que por "de baixo dos panos continua o valor inicial"
+
