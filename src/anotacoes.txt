@@ -1,0 +1,2 @@
+Modo antigo
+1- dependencias => npm i redux react-redux
